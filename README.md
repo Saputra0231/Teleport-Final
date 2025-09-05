@@ -48,6 +48,14 @@ Cocok digunakan untuk eksplorasi server, teleportasi cepat ke player lain, maupu
 
 ---
 
+
+## 🕹️ Cara Run
+- salin link di bawah dan masukan kedalam executor delta
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/Saputra0231/Teleport-Final/refs/heads/main/Tpplayerencrypt.lua"))()
+
+---
+
+
 ## 📜 Lisensi
 © 2025 Ry. All rights reserved.  
 Dilarang memperjualbelikan atau mengklaim script ini tanpa izin.
